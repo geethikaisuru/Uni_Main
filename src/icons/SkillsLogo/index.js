@@ -1,0 +1,1 @@
+export { SkillsLogo } from "./SkillsLogo";

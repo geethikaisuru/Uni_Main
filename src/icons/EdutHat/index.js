@@ -1,0 +1,1 @@
+export { EdutHat } from "./EdutHat";

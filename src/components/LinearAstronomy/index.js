@@ -1,0 +1,1 @@
+export { LinearAstronomy } from "./LinearAstronomy";

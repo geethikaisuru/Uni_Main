@@ -1,0 +1,1 @@
+export { VuesaxBoldFrame } from "./VuesaxBoldFrame";

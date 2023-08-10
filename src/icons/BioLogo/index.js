@@ -1,0 +1,1 @@
+export { BioLogo } from "./BioLogo";

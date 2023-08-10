@@ -1,0 +1,1055 @@
+.profile-page {
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile-page .my-profile-wrapper {
+  background-color: #f3f2ef;
+  border: 1px none;
+  height: 4000px;
+  width: 2390px;
+}
+
+.profile-page .my-profile {
+  background-color: #ffffff;
+  height: 4000px;
+  position: relative;
+}
+
+.profile-page .frame {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 586px;
+  justify-content: space-between;
+  left: 240px;
+  position: absolute;
+  top: 1080px;
+  width: 276px;
+}
+
+.profile-page .overlap-group-wrapper {
+  align-self: stretch;
+  height: 70px;
+  margin-right: -2px;
+  position: relative;
+  width: 100%;
+}
+
+.profile-page .overlap-group {
+  background-color: #499bfc;
+  border-radius: 10.31px;
+  height: 70px;
+  position: relative;
+  width: 276px;
+}
+
+.profile-page .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 243px;
+}
+
+.profile-page .overlap {
+  background-color: #499bfc;
+  border-radius: 7.73px;
+  height: 70px;
+  position: relative;
+  width: 276px;
+}
+
+.profile-page .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 186px;
+}
+
+.profile-page .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  width: 243px;
+}
+
+.profile-page .bio-top-skills {
+  background-color: #dfeaf7;
+  border-radius: 30px;
+  height: 741px;
+  left: 235px;
+  position: absolute;
+  top: 1708px;
+  width: 1918px;
+}
+
+.profile-page .top-skills {
+  height: 198px;
+  left: 37px;
+  position: absolute;
+  top: 516px;
+  width: 1881px;
+}
+
+.profile-page .skills-logo {
+  height: 70px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 70px !important;
+}
+
+.profile-page .line {
+  height: 1px;
+  left: 81px;
+  position: absolute;
+  top: 62px;
+  width: 219px;
+}
+
+.profile-page .text-wrapper-6 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 89px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  width: 199px;
+}
+
+.profile-page .p {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  width: 1866px;
+}
+
+.profile-page .bio {
+  height: 480px;
+  left: 37px;
+  position: absolute;
+  top: 19px;
+  width: 1854px;
+}
+
+.profile-page .bio-logo {
+  height: 70px !important;
+  left: -14px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 70px !important;
+}
+
+.profile-page .i-m-a-simple-and {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 1845px;
+}
+
+.profile-page .text-wrapper-7 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 76px;
+}
+
+.profile-page .line-2 {
+  height: 1px;
+  left: 75px;
+  position: absolute;
+  top: 64px;
+  width: 62px;
+}
+
+.profile-page .posts {
+  background-color: #dfeaf7;
+  border-radius: 30px;
+  height: 586px;
+  left: 710px;
+  position: absolute;
+  top: 1080px;
+  width: 1443px;
+}
+
+.profile-page .small-post {
+  background-color: #ffffff;
+  border-radius: 12.89px;
+  height: 402px;
+  left: 22px;
+  position: absolute;
+  top: 92px;
+  width: 315px;
+}
+
+.profile-page .group {
+  height: 128px;
+  left: 26px;
+  position: absolute;
+  top: 255px;
+  width: 267px;
+}
+
+.profile-page .text-wrapper-8 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 23.2px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profile-page .element-upvotes {
+  color: #499bfc;
+  font-family: "Poppins", Helvetica;
+  font-size: 25.8px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+}
+
+.profile-page .rectangle-2 {
+  height: 219px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 284px;
+}
+
+.profile-page .vector {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 402px;
+  width: 314px;
+}
+
+.profile-page .div-wrapper {
+  height: 402px;
+  left: 375px;
+  position: absolute;
+  top: 92px;
+  width: 317px;
+}
+
+.profile-page .overlap-group-2 {
+  height: 403px;
+  position: relative;
+  width: 315px;
+}
+
+.profile-page .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 12.89px;
+  height: 402px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.profile-page .group-2 {
+  height: 35px;
+  left: 26px;
+  position: absolute;
+  top: 255px;
+  width: 268px;
+}
+
+.profile-page .element-k-upvotes {
+  color: #499bfc;
+  font-family: "Poppins", Helvetica;
+  font-size: 25.8px;
+  font-weight: 500;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 305px;
+}
+
+.profile-page .overlap-wrapper {
+  height: 402px;
+  left: 729px;
+  position: absolute;
+  top: 92px;
+  width: 316px;
+}
+
+.profile-page .overlap-2 {
+  height: 403px;
+  position: relative;
+  width: 314px;
+}
+
+.profile-page .rectangle-4 {
+  background-color: #ffffff;
+  border-radius: 12.89px;
+  height: 402px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 314px;
+}
+
+.profile-page .group-3 {
+  height: 35px;
+  left: 26px;
+  position: absolute;
+  top: 255px;
+  width: 264px;
+}
+
+.profile-page .rectangle-5 {
+  height: 219px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 284px;
+}
+
+.profile-page .element-upvotes-2 {
+  color: #499bfc;
+  font-family: "Poppins", Helvetica;
+  font-size: 25.8px;
+  font-weight: 500;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 305px;
+}
+
+.profile-page .small-post-2 {
+  height: 402px;
+  left: 1082px;
+  position: absolute;
+  top: 92px;
+  width: 316px;
+}
+
+.profile-page .group-4 {
+  height: 35px;
+  left: 26px;
+  position: absolute;
+  top: 255px;
+  width: 270px;
+}
+
+.profile-page .p-opular {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 199px;
+}
+
+.profile-page .overlap-3 {
+  background-color: #dfeaf7;
+  border-radius: 10.31px;
+  height: 70px;
+  position: relative;
+  width: 197px;
+}
+
+.profile-page .text-wrapper-9 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20.6px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  width: 137px;
+}
+
+.profile-page .education {
+  background-color: #dfeaf7;
+  border-radius: 20px;
+  height: 1061px;
+  left: 235px;
+  position: absolute;
+  top: 2517px;
+  width: 1918px;
+}
+
+.profile-page .content {
+  height: 642px;
+  left: 59px;
+  position: absolute;
+  top: 40px;
+  width: 1831px;
+}
+
+.profile-page .overlap-4 {
+  height: 475px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 1831px;
+}
+
+.profile-page .text-wrapper-10 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 200;
+  left: 839px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 384px;
+  width: 168px;
+}
+
+.profile-page .taxila-central {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 60px;
+  width: 1817px;
+}
+
+.profile-page .text-wrapper-11 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.profile-page .overlap-group-3 {
+  height: 60px;
+  left: 65px;
+  position: absolute;
+  top: -1px;
+  width: 203px;
+}
+
+.profile-page .text-wrapper-12 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 40px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.profile-page .line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 60px;
+  width: 172px;
+}
+
+.profile-page .text-wrapper-13 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 500;
+  left: 1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 579px;
+  width: 297px;
+}
+
+.profile-page .edut-hat {
+  height: 70px !important;
+  left: -17px !important;
+  position: absolute !important;
+  top: -5px !important;
+  width: 70px !important;
+}
+
+.profile-page .text-wrapper-14 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 106px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 703px;
+  width: 809px;
+}
+
+.profile-page .top-frame {
+  background-color: #dfeaf7;
+  height: 135px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 2389px;
+}
+
+.profile-page .search-bar-ribbon {
+  border: unset !important;
+  border-color: unset !important;
+  height: 93px !important;
+  left: 669px !important;
+  position: absolute !important;
+  top: 24px !important;
+  width: 855px !important;
+}
+
+.profile-page .input-instance {
+  color: var(--gray-bluegrey-blue-80) !important;
+  font-family: "Roboto", Helvetica !important;
+  font-size: 28px !important;
+  font-style: unset !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+  margin-top: unset !important;
+}
+
+.profile-page .frame-2 {
+  height: 99px;
+  left: 1605px;
+  position: absolute;
+  top: 15px;
+  width: 754px;
+}
+
+.profile-page .starred {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 529px !important;
+  position: absolute !important;
+  top: 7px !important;
+  width: 90px !important;
+}
+
+.profile-page .action-star-rate {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  position: relative !important;
+}
+
+.profile-page .options {
+  background-color: var(--white) !important;
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 664px !important;
+  position: absolute !important;
+  top: 7px !important;
+  width: 90px !important;
+}
+
+.profile-page .design-component-instance-node {
+  align-self: stretch !important;
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  height: unset !important;
+  width: unset !important;
+}
+
+.profile-page .navigation-menu-instance {
+  height: 28px !important;
+  left: 14px !important;
+  top: 21px !important;
+  width: 42px !important;
+}
+
+.profile-page .overlap-group-4 {
+  height: 97px;
+  left: 396px;
+  position: absolute;
+  top: 2px;
+  width: 91px;
+}
+
+.profile-page .notific {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 7px !important;
+  width: 88px !important;
+}
+
+.profile-page .social-notifications-instance {
+  height: 46px !important;
+  left: 16px !important;
+  top: 12px !important;
+  width: 34px !important;
+}
+
+.profile-page .status-instance {
+  background-color: #f6ad2d !important;
+  border: unset !important;
+  border-color: unset !important;
+  height: 32px !important;
+  left: 59px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.profile-page .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 23px;
+}
+
+.profile-page .overlap-5 {
+  height: 99px;
+  left: 264px;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.profile-page .msgs {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  opacity: 0.9 !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 88px !important;
+}
+
+.profile-page .icon-7 {
+  height: 47px !important;
+  left: 11px !important;
+  top: 12px !important;
+  width: 45px !important;
+}
+
+.profile-page .status-2 {
+  background-color: #f6ad2d !important;
+  border: unset !important;
+  border-color: unset !important;
+  height: 32px !important;
+  left: 55px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 32px !important;
+}
+
+.profile-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.profile-page .navigator {
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 132px !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 88px !important;
+}
+
+.profile-page .home-feed {
+  background-color: #ffffff !important;
+  border: unset !important;
+  border-color: unset !important;
+  display: flex !important;
+  height: 90px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 9px !important;
+  width: 88px !important;
+}
+
+.profile-page .logo {
+  background-image: url(https://generation-sessions.s3.amazonaws.com/0755bf2fc297388ad10f530df2877e6c/img/logo@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 61px;
+  left: 78px;
+  position: absolute;
+  top: 36px;
+  width: 154px;
+}
+
+.profile-page .ribbon-profile-pic {
+  height: 100px;
+  left: 551px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 100px;
+}
+
+.profile-page .top-cover {
+  background-color: #dfeaf7;
+  border-radius: 30px;
+  height: 811px;
+  left: 238px;
+  position: absolute;
+  top: 194px;
+  width: 1915px;
+}
+
+.profile-page .overlap-6 {
+  height: 771px;
+  position: relative;
+  top: 1px;
+  width: 1929px;
+}
+
+.profile-page .cover {
+  height: 311px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1915px;
+}
+
+.profile-page .edit-button {
+  background-color: #595a5b;
+  border-radius: 35px;
+  height: 69px;
+  left: 1804px;
+  position: absolute;
+  top: 18px;
+  width: 87px;
+}
+
+.profile-page .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 27px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 51px;
+}
+
+.profile-page .name-and-info {
+  height: 450px;
+  left: 0;
+  position: absolute;
+  top: 321px;
+  width: 1929px;
+}
+
+.profile-page .overlap-7 {
+  height: 199px;
+  left: 1403px;
+  position: absolute;
+  top: 53px;
+  width: 514px;
+}
+
+.profile-page .overlap-group-wrapper-2 {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 514px;
+}
+
+.profile-page .overlap-group-5 {
+  height: 69px;
+  position: relative;
+  width: 512px;
+}
+
+.profile-page .rectangle-6 {
+  background-color: #6cc644;
+  border-radius: 25px;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 407px;
+}
+
+.profile-page .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+  width: 441px;
+}
+
+.profile-page .contri-button-instance {
+  left: 13px !important;
+  top: 3px !important;
+}
+
+.profile-page .postings {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 66px;
+  width: 512px;
+}
+
+.profile-page .overlap-8 {
+  height: 69px;
+  position: relative;
+  width: 514px;
+}
+
+.profile-page .linear-astronomy-stars-minimalistic {
+  left: 12px !important;
+}
+
+.profile-page .endoresmenta {
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 133px;
+  width: 512px;
+}
+
+.profile-page .overlap-9 {
+  height: 66px;
+  position: relative;
+  width: 514px;
+}
+
+.profile-page .endorements {
+  height: 64px;
+  left: 71px;
+  position: absolute;
+  top: 2px;
+  width: 443px;
+}
+
+.profile-page .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 441px;
+}
+
+.profile-page .endore-instance {
+  left: 13px !important;
+  top: 2px !important;
+}
+
+.profile-page .text-wrapper-20 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 1411px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 401px;
+  width: 208px;
+}
+
+.profile-page .text-wrapper-21 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 1649px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 401px;
+  width: 155px;
+}
+
+.profile-page .text-wrapper-22 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 48px;
+  font-weight: 500;
+  left: 372px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 625px;
+}
+
+.profile-page .overlap-10 {
+  height: 177px;
+  left: 0;
+  position: absolute;
+  top: 224px;
+  width: 951px;
+}
+
+.profile-page .text-wrapper-23 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 113px;
+  width: 854px;
+}
+
+.profile-page .element-year {
+  color: transparent;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 679px;
+}
+
+.profile-page .span {
+  color: #000000;
+}
+
+.profile-page .text-wrapper-24 {
+  color: #777575;
+}
+
+.profile-page .bsc-in-physics-ICT {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  width: 679px;
+}
+
+.profile-page .AI-ML-student-a {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 36px;
+  font-weight: 300;
+  left: 371px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 854px;
+}
+
+.profile-page .ribbon-profile-pic-2 {
+  height: 324px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 178px;
+  width: 324px;
+}

@@ -1,0 +1,1 @@
+export { VuesaxBoldBuilding } from "./VuesaxBoldBuilding";
